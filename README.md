@@ -1,16 +1,17 @@
 # my_business_card
 
-My Business Card Application
+A simple demo on flutter application (iOS + Android) for my personal business card.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. Clone this repository or open it up directly from your Android Studio.
+2. Setup your virtual emulator (Android / iOS). For help getting started with Flutter development, view the
+   [online documentation](https://docs.flutter.dev/).
+3. Run the application using the emulator you had setup in your AndroidStudio, you'll get something like what depicted on the picture below.
 
-A few resources to get you started if this is your first Flutter project:
+![My Business Card](images/businessapp.jpg)
+
+## Other Resources on Flutter
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
